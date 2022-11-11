@@ -1,0 +1,11 @@
+1668147873546	geckodriver	INFO	Listening on 127.0.0.1:57404
+1668147875574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\GUPY~1.WAN\\AppData\\Local\\Temp\\rust_mozprofile0J9zHE"
+1668147876897	Marionette	INFO	Marionette enabled
+1668147876901	Marionette	INFO	Listening on port 51818
+Read port: 51818
+1668147877002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GUPY~1.WAN\\AppData\\Local\\Temp\\rust_mozprofile0J9zHE\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1668147987127	Marionette	INFO	Stopped listening on port 51818
